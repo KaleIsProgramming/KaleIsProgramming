@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 👨‍💻 All of my projects are available at [in progress](in progress)
+- 👨‍💻 All of my projects are available at (in progress)
 
 - 💬 Ask me about **React**
 
