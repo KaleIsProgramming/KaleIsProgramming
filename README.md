@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 👨‍💻 All of my projects are available at [here](https://piotrkostecki.eu/)
+- 👨‍💻 My [Portfolio](https://piotrkostecki.eu/)(Work in progress)
 
 - 💬 Ask me about **React**
 
